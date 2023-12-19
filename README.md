@@ -29,11 +29,15 @@ To set up your environment to run this notebook:
 
 1. Clone this repository:
 
-'git clone [repository URL]'
+```
+git clone [repository URL]
+```
 
 2. Install required packages:
 
-'pip install openai'
+```
+pip install openai
+```
 
 ## Usage
 
