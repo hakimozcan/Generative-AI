@@ -43,6 +43,4 @@ pip install openai
 
 Follow the step-by-step instructions in the notebook, ensuring to replace [YOUR_API_KEY] with your OpenAI API key.
 
-## Contributing
 
-Your contributions are welcome! Feel free to fork this repository and propose changes through pull requests.
