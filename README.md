@@ -30,7 +30,7 @@ To set up your environment to run this notebook:
 1. Clone this repository:
 
 ```
-git clone [repository URL]
+git clone https://github.com/hakimozcan/Generative-AI.git
 ```
 
 2. Install required packages:
